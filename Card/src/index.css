@@ -1,0 +1,8 @@
+@import "tailwindcss";
+.profile{
+  margin-top: 40px;
+  margin-left: 60px;
+}
+.P{
+  display: flex;
+}
