@@ -1,0 +1,16 @@
+@import "tailwindcss";
+.Box1{
+    height: 500px;
+    width: 1000px;
+    background-color: red;
+}
+.Box2{
+    height: 500px;
+    width: 1000px;
+    background-color: blue;
+}
+.Box3{
+    height: 500px;
+    width: 1000px;
+    background-color: blueviolet;
+}
